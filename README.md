@@ -1,3 +1,3 @@
-# Python-pandas-read_huge_parquet_file
+# Python-pandas-read_huge_data_files
 
-Reading Huge parquet file using Pandas
+Reading Huge data files using Pandas
